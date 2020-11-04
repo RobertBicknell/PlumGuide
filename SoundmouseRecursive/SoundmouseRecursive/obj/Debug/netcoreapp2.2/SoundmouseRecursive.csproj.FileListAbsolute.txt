@@ -1,0 +1,11 @@
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\bin\Debug\netcoreapp2.2\SoundmouseRecursive.deps.json
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\bin\Debug\netcoreapp2.2\SoundmouseRecursive.runtimeconfig.json
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\bin\Debug\netcoreapp2.2\SoundmouseRecursive.runtimeconfig.dev.json
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\bin\Debug\netcoreapp2.2\SoundmouseRecursive.dll
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\bin\Debug\netcoreapp2.2\SoundmouseRecursive.pdb
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.csprojAssemblyReference.cache
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.csproj.CoreCompileInputs.cache
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.AssemblyInfoInputs.cache
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.AssemblyInfo.cs
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.dll
+C:\Users\Robert2\source\repos\SoundmouseRecursive\SoundmouseRecursive\obj\Debug\netcoreapp2.2\SoundmouseRecursive.pdb
